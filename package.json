@@ -1,0 +1,20 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "fizzBuzz in js",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "start": "node fizzbuzz.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logica-das-ruas/FizzBuzz-js.git"
+  },
+  "author": "marcos012 <marcospaulo.ad@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/logica-das-ruas/FizzBuzz-js/issues"
+  },
+  "homepage": "https://github.com/logica-das-ruas/FizzBuzz-js#readme"
+}
